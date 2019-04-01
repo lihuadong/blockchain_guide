@@ -15,4 +15,4 @@ https://github.com/lihuadong/blockchain_guide/blob/master/%E5%8C%BA%E5%9D%97%E9%
 
 
 - [x] 2019-04-01  区块链名词解释基础、比特币、以太坊
--[X]  2018-12-12  筹划本内容
+- [X] 2018-12-12  筹划本内容
