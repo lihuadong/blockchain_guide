@@ -1,5 +1,7 @@
-# blockchain_guide
+# 区块链行业向导
 区块链行业白皮书，快速了解行业最近进展
+
+# 目录
 
 [区块链名词解释](
 https://github.com/lihuadong/blockchain_guide/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.md)
