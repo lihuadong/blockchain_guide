@@ -13,11 +13,18 @@
 
 [区块链资本](https://github.com/lihuadong/blockchain_guide/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%B5%84%E6%9C%AC%E6%96%B9.md)
 
+[不同国家政策](https://github.com/lihuadong/blockchain_guide/blob/master/%E5%9B%BD%E5%AE%B6%E8%A1%8C%E4%B8%BA.md)
+
 [大咖观点集](https://github.com/lihuadong/blockchain_guide/blob/master/%E5%A4%A7%E5%92%96%E8%A7%82%E7%82%B9.md)
+
+[区块链资本方](https://github.com/lihuadong/blockchain_guide/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%B5%84%E6%9C%AC%E6%96%B9.md)
+
 
 ---
 日志（Log）
 
+- [X] 2019-04-04  区块链资本方、机构、基金
+- [X] 2019-04-03  各个国家、高校、机构对区块链的政策、态度.
 - [X] 2019-04-02  区块链应用汇集：慈善、出版、医疗、安全、出行 etc.
 - [x] 2019-04-01  区块链名词解释基础、比特币、以太坊
 - [X] 2018-12-12  筹划本内容
